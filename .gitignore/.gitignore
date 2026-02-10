@@ -1,0 +1,27 @@
+# Node / Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Environment files
+.env
+appsettings.Development.json
+
+# Database files
+*.mdf
+*.ldf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
